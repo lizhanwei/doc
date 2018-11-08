@@ -2,7 +2,7 @@
 关于跨域，有N种类型，本文只专注于ajax请求跨域(ajax跨域只是属于浏览器“同源策略”中的一部分,其它的还有Cookie跨域iframe跨域,LocalStorage跨域等这里不做介绍
 
 #### 什么是ajax请求跨域
-ajax出现请求跨域错误问题,主要原因就是因为浏览器的“同源策略”【协议，域名，端口相同】,可以参考
+ajax出现请求跨域错误问题,主要原因就是因为浏览器的“同源策略”【协议，域名，端口相同】,可以参考
 >[浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)  
 >[跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)  
 >[HTTP访问控制](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
